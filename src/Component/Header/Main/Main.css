@@ -1,0 +1,7 @@
+.main{
+    display: flex;
+}
+.users{
+    border-right: 2px solid red;
+    width: 70%;
+}
